@@ -112,7 +112,6 @@ motto      : Build end-to-end, ship with purpose
 ## 📫 Let's Connect
 
 - **Gmail** — nihanthbhargav@gmail.com
-- **LinkedIn** — [Bolle Nihanth Bhargav](www.linkedin.com/in/bolle-nihanth-bhargav-b75262257)
 
 ---
 
